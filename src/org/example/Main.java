@@ -3,6 +3,7 @@ package org.example;
 import procesadores.procesadores;
 import procesadores.procesadores_amd;
 import procesadores.procesadores_moviles;
+import procesadores.procesadores_intel;
 
 public class Main {
     public static void main(String[] args) {
@@ -20,5 +21,9 @@ public class Main {
 
 
         //Mireya por favor crear dos instacias de intel con valores
+        procesadores_intel proc_5 = new procesadores_intel(5,5.5,8, "Corei5","LGA1156",true);
+        procesadores_intel proc_6 = new procesadores_intel(4,3.5,8, "Corei6","LGA1157",true);
+
+
     }
 }
