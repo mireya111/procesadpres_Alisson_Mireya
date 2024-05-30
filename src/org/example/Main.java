@@ -39,6 +39,10 @@ public class Main {
 
         //Elkin Diaz Integrante1 Grupo2
 
+        procesadores_intel p9 = new procesadores_intel(24, 6, 5.6,"Intel Core I9","LGA 2066", true);
+        procesadores_amd  p10 = new procesadores_amd(12, 4.8, 3.7, "AMD Ryzen 9 5900X","AM4",true);
+        procesadores_moviles p11 = new procesadores_moviles(8, 2.2, 8, "MediaTek Helio G99",true);
+
         //Santiago Cumbal Integrante2 Grupo2
         procesadores_moviles procesador = new procesadores_moviles(6, 0.5, 3.23, "A15 Bionic",true);
         procesadores_intel p6 = new procesadores_intel(16, 25, 45, "CoreI9","AM2+", true );
