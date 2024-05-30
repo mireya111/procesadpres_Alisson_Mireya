@@ -42,8 +42,11 @@ public class Main {
 
         //Mireya García Integrante1 Grupo3
 
-        //Alissom   Integrante1 Grupo3
+        //Alisson   Integrante1 Grupo3
 
+        procesadores_amd proc_7 = new procesadores_amd(3,10.5,18, "Ryzen9","AM5",false);
+        procesadores_amd proc_8 = new procesadores_amd(8,12.5,10, "Epy77","FM1",false);
+        procesadores_amd proc_9 = new procesadores_amd(4,13,5, "Threadripper","B650",true);
 
     }
 }
