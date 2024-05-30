@@ -45,7 +45,7 @@ public class Main {
 
         //Santiago Cumbal Integrante2 Grupo2
         procesadores_moviles procesador = new procesadores_moviles(6, 0.5, 3.23, "A15 Bionic",true);
-        procesadores_intel p6 = new procesadores_intel(16, 25, 45, "CoreI9","AM2+", true );
+        procesadores_intel p6 = new procesadores_intel(16, 25, 45, "CoreI3","AM2+", true );
         procesadores_escritorio p8 = new procesadores_escritorio(8,3.4,95,"Intel core I7","LGAIntel");
 
         //Mireya García Integrante1 Grupo3
