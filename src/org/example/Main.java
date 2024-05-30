@@ -31,7 +31,10 @@ public class Main {
         procesadores_moviles pro1= new procesadores_moviles(16,3.0,95,"Helio 895",true);
         procesadores_amd pro2= new procesadores_amd(8,7.5,75, "Ryzen5","AM5",true);
         procesadores pro3 = new procesadores(4,3.5,10, "Intel Pentioum");
-        //Paul Cabrera Integrante2 Grupo1
+        //Adrian Cadena Integrante2 Grupo1
+        procesadores_moviles pro4=new procesadores_moviles(6,3.78,96,"Apple 17 pro",true);
+        procesadores_amd pro5= new procesadores_amd(6,3.7,75, "Ryzen5 4600","AM4",true);
+        procesadores pro6 = new procesadores(2,800 ,65, "Intel Core 2 duo");
 
         //Elkin Diaz Integrante1 Grupo2
 
