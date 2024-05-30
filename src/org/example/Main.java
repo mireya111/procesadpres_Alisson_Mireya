@@ -1,12 +1,14 @@
 package org.example;
 
 import procesadores.procesadores;
+import procesadores.procesadores_amd;
+import procesadores.procesadores_moviles;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        procesadores p1 = new procesadores();
+        //Integrante1
+        procesadores_amd proc_1 = new procesadores_amd();
+        procesadores_amd proc_2 = new procesadores_amd(4,1.5,7.5, "Ryzen5","AM4",true);
 
     }
 }
