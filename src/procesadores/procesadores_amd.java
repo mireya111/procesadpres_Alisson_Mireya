@@ -34,5 +34,4 @@ public class procesadores_amd extends procesadores_escritorio{
     public void imprimir_datos_escritorio(){
         System.out.println(this.socket);
     }
-    //..
 }
