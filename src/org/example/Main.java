@@ -15,7 +15,8 @@ public class Main {
 
 
         //Alisson por favor crear dos instancias de amd con valores
-
+        procesadores_amd proc_5 = new procesadores_amd(2,2.5,5, "Ryzen7","AM2",false);
+        procesadores_amd proc_6 = new procesadores_amd(3,3.5,7, "Ryzen3","AM3",true);
 
 
         //Mireya por favor crear dos instacias de intel con valores
