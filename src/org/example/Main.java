@@ -21,8 +21,8 @@ public class Main {
 
 
         //Mireya por favor crear dos instacias de intel con valores
-        procesadores_intel proc_5 = new procesadores_intel(5,5.5,8, "Corei5","LGA1156",true);
-        procesadores_intel proc_6 = new procesadores_intel(4,3.5,8, "Corei6","LGA1157",true);
+        procesadores_intel pro_1 = new procesadores_intel(5,5.5,8, "Corei5","LGA1156",true);
+        procesadores_intel pro_2 = new procesadores_intel(4,3.5,8, "Corei6","LGA1157",true);
 
 
     }
