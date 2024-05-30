@@ -12,5 +12,12 @@ public class Main {
         //Integrante2
         procesadores_moviles proc_3 = new procesadores_moviles();
         procesadores_moviles proc_4 = new procesadores_moviles(3,3.4,5.7,"Raiser08",true);
+
+
+        //Alisson por favor crear dos instancias de amd con valores
+
+
+
+        //Mireya por favor crear dos instacias de intel con valores
     }
 }
