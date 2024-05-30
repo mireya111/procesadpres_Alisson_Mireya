@@ -24,6 +24,18 @@ public class Main {
         procesadores_intel pro_1 = new procesadores_intel(5,5.5,8, "Corei5","LGA1156",true);
         procesadores_intel pro_2 = new procesadores_intel(4,3.5,8, "Corei6","LGA1157",true);
 
+        //Paul Cabrera Integrante1 Grupo1
+
+        //Paul Cabrera Integrante2 Grupo1
+
+        //Elkin Diaz Integrante1 Grupo2
+
+        //Santiago Cumbal Integrante2 Grupo2
+
+        //Mireya García Integrante1 Grupo3
+
+        //Alissom   Integrante1 Grupo3
+
 
     }
 }
