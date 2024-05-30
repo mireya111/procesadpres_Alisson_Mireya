@@ -5,6 +5,7 @@ import procesadores.procesadores_amd;
 import procesadores.procesadores_moviles;
 import procesadores.procesadores_intel;
 
+
 public class Main {
     public static void main(String[] args) {
         //Integrante1
@@ -24,8 +25,12 @@ public class Main {
         procesadores_intel pro_1 = new procesadores_intel(5,5.5,8, "Corei5","LGA1156",true);
         procesadores_intel pro_2 = new procesadores_intel(4,3.5,8, "Corei6","LGA1157",true);
 
-        //Paul Cabrera Integrante1 Grupo1
 
+        //Trabajo colaborativo
+        //Paul Cabrera Integrante1 Grupo1
+        procesadores_moviles pro1= new procesadores_moviles(16,3.0,95,"Helio 895",true);
+        procesadores_amd pro2= new procesadores_amd(8,7.5,75, "Ryzen5","AM5",true);
+        procesadores pro3 = new procesadores(4,3.5,10, "Intel Pentioum");
         //Paul Cabrera Integrante2 Grupo1
 
         //Elkin Diaz Integrante1 Grupo2
